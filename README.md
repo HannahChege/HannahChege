@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Hannah👋
 
 <!--
 **hannah njeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/hannah-njeri-764892139/) 👨🏻‍💻
- - Shoot Me an [Email](mailto:chegehannah45@gmail.com) 💌
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/onlyArsh)
+ - Shoot Me an [Email](chegehannah45@gmail.com) 💌
 
 
 
